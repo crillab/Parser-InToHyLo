@@ -14,11 +14,9 @@
 * You should have received a copy of the GNU General Public License along with Parser-InToHyLo. 
 * If not, see http://www.gnu.org/licenses/.
 *
-# Contributors:
-#       - Jean Marie Lagniez  (lagniez@cril.fr)
-#       - Daniel Le Berre     (leberre@cril.fr)
-#       - Tiago de Lima       (delima@cril.fr)
-#       - Valentin Montmirail (montmirail@cril.fr)
+* Contributors:
+*       - Jean Marie Lagniez  (lagniez@cril.fr)
+*       - Valentin Montmirail (montmirail@cril.fr)
 ***************************************************************************************************/
 
 #include "Equiv.h"
