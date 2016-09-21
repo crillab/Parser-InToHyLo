@@ -8,7 +8,7 @@
 
 Here the Backus-Normal-Form of the InToHyLo format
 	
-![BNF of InToHyLo](doc/images/InToHyLo.png)
+![BNF of InToHyLo](images/InToHyLo.png)
 
 The parser is using a classical algorithm of shift and reduce;
 
@@ -16,7 +16,7 @@ It is allowing the multiple modalities and each class represents a modal logic e
 
 ## Class-Diagram
 	
-![Class Diagram](doc/images/class-diagram.png)
+![Class Diagram](images/class-diagram.png)
 
 ## Use Example
 
