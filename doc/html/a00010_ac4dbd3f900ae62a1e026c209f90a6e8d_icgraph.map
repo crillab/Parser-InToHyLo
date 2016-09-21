@@ -1,0 +1,5 @@
+<map id="LexicalAnalyser::checkWord" name="LexicalAnalyser::checkWord">
+<area shape="rect" id="node2" href="$a00010.html#ab48dfa10a29ed7ead743dbceeddc6a8b" title="Read the flux and return the next token. The value is also save. " alt="" coords="243,12,429,39"/>
+<area shape="rect" id="node3" href="$a00014.html#aa8b2ace4894b59f8bbf9685a208bcfff" title="Parse the file (saved in lx) to extract the formula. " alt="" coords="477,5,613,46"/>
+<area shape="rect" id="node4" href="$a00032.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="661,12,712,39"/>
+</map>

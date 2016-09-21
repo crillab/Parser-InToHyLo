@@ -1,0 +1,12 @@
+<map id="SyntacticAnalyser::parseFormula" name="SyntacticAnalyser::parseFormula">
+<area shape="rect" id="node2" href="$a00010.html#afcf06c4374c7d26cdce6204d7f283074" title="Consum the current line. " alt="" coords="199,5,366,32"/>
+<area shape="rect" id="node3" href="$a00014.html#af5d7e03735cd81aef701fbd6ea2862f0" title="This function return the parsed formula. " alt="" coords="215,57,351,98"/>
+<area shape="rect" id="node4" href="$a00010.html#ab48dfa10a29ed7ead743dbceeddc6a8b" title="Read the flux and return the next token. The value is also save. " alt="" coords="190,123,375,149"/>
+<area shape="rect" id="node7" href="$a00014.html#ac25757396e0862369ae480be586774d1" title="this function will clean the 2 stacks (token and formula elements) " alt="" coords="215,174,351,215"/>
+<area shape="rect" id="node8" href="$a00014.html#a6726d8fbb0450d50d794ed411f5d161c" title="This function will push a NULL token. " alt="" coords="215,239,351,281"/>
+<area shape="rect" id="node9" href="$a00014.html#ad53fd25fe3d44970f02990ab17213c81" title="This function will push an unary element. " alt="" coords="215,305,351,346"/>
+<area shape="rect" id="node10" href="$a00014.html#a76f07c57eac5b3e29d6cb9375fe17460" title="Combine elements on the stack. " alt="" coords="215,370,351,411"/>
+<area shape="rect" id="node5" href="$a00010.html#ac4dbd3f900ae62a1e026c209f90a6e8d" title="This function check if the word s starts at the position &#39;start&#39;. " alt="" coords="424,97,613,124"/>
+<area shape="rect" id="node6" href="$a00010.html#afd089e83228c24b39abe9f11ea7e181d" title="Read a number from cin. " alt="" coords="433,148,604,175"/>
+<area shape="rect" id="node11" href="$a00014.html#aaae77c5d9e520b38eff1c2307d782673" title="This function will merge the stacks. " alt="" coords="451,370,587,411"/>
+</map>
