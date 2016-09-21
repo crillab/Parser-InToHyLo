@@ -1,0 +1,10 @@
+Parser-InToHyLo:
+  script: 
+    - make clean; make; doxygen;
+  tags:
+    - linux 
+    - c++
+  artifacts:
+    paths:
+      - bin/parser-intohylo
+      - doc/*
